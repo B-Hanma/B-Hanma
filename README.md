@@ -26,6 +26,7 @@ So I resigned. And I'm rebuilding.
 ## Projects
 
 - 🏗️ [AWS 3-Tier VPC Architecture](#) — Multi-AZ VPC with public/private subnets, Security Groups, Amazon Linux web server. Currently expanding with Load Balancer and Auto Scaling.
+- #https://github.com/B-Hanma/AWS-VPC-PROJECT
 
 ---
 
