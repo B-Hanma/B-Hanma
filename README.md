@@ -104,9 +104,9 @@ I was good at holding things together during a crisis. But I kept watching engin
   <a href="https://www.linkedin.com/in/sandeepverma23">
     <img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vermasandeep7430@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vermasandeep7430@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 <p align="center"><i>Currently open to Junior DevOps, Cloud Support, and SRE roles.</i></p>
